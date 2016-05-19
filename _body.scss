@@ -1,0 +1,65 @@
+.copy {
+  width: 40%;
+  width: 52%;
+  list-style: none;
+  padding-bottom: 50px;
+  h2 {
+    font-size: 2em;
+    font-color: navy;
+    margin-left: 1em;
+  }
+  ul li {
+    width: 95%;
+    color: #0D2256;
+    font-weight: 200;
+    list-style: none;
+    padding-bottom: 1em;
+    margin-left: 2em;
+    }
+  ul.quote h3 {
+      color: #5BA1DF;
+      border-left: 1px solid gray;
+      padding-left: 20px;
+    }
+}
+
+
+
+
+
+aside {
+  width: 39%;
+  float: right;
+  margin-right: 2em;
+  margin-left: 10em;
+  margin-top: -31em;
+      .circle {
+  border-radius: 100%;
+  border-radius: 100%;
+  width: 104px;
+  margin: 6px auto;
+  justify-content: center;
+  margin-left: 230px;
+  }
+  h4 {
+  align-content: center;
+  padding-left: 13em;
+  }
+  p {
+    font-size: 10px;
+    color: gray;
+    display: block;
+    align-content: center;
+    margin: 0 auto;
+    margin-left: 213px;
+  }
+  .square {
+  width: 70%;
+  align-content: center;
+  justify-content: center;
+  margin: 0 auto;
+  padding-left: 90px;
+  padding-top: 3em;
+  margin-bottom: 70px;
+  }
+}

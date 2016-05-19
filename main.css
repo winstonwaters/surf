@@ -1,0 +1,148 @@
+* {
+  font-family: gotham, sans-serif;
+  text-decoration: none; }
+
+header {
+  margin-bottom: 6em;
+  background-image: url("surf.jpg");
+  background-position: center;
+  background-size: cover;
+  width: 110%;
+  height: 601px;
+  background-repeat: no-repeat;
+  color: #0F7A74;
+  opacity: 95%; }
+  header h1 {
+    color: white;
+    margin: -15%;
+    text-align: center;
+    font-size: 100px;
+    margin-top: 133px; }
+  header p {
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    margin-left: -6%; }
+
+nav {
+  vertical-align: top;
+  display: inline-block;
+  margin-top: 3em;
+  margin-left: 3em;
+  width: 87%;
+  padding-bottom: 8em; }
+
+h4 {
+  color: white;
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 2em;
+  margin: auto; }
+
+ul {
+  float: right;
+  display: inline-block;
+  vertical-align: top;
+  margin: auto; }
+
+li {
+  float: right;
+  color: white;
+  vertical-align: top;
+  padding-right: 3em;
+  list-style: none;
+  margin: auto; }
+
+.copy {
+  width: 40%;
+  width: 52%;
+  list-style: none;
+  padding-bottom: 50px; }
+  .copy h2 {
+    font-size: 2em;
+    font-color: navy;
+    margin-left: 1em; }
+  .copy ul li {
+    width: 95%;
+    color: #0D2256;
+    font-weight: 200;
+    list-style: none;
+    padding-bottom: 1em;
+    margin-left: 2em; }
+  .copy ul.quote h3 {
+    color: #5BA1DF;
+    border-left: 1px solid gray;
+    padding-left: 20px; }
+
+aside {
+  width: 39%;
+  float: right;
+  margin-right: 2em;
+  margin-left: 10em;
+  margin-top: -31em; }
+  aside .circle {
+    border-radius: 100%;
+    border-radius: 100%;
+    width: 104px;
+    margin: 6px auto;
+    justify-content: center;
+    margin-left: 230px; }
+  aside h4 {
+    align-content: center;
+    padding-left: 13em; }
+  aside p {
+    font-size: 10px;
+    color: gray;
+    display: block;
+    align-content: center;
+    margin: 0 auto;
+    margin-left: 213px; }
+  aside .square {
+    width: 70%;
+    align-content: center;
+    justify-content: center;
+    margin: 0 auto;
+    padding-left: 90px;
+    padding-top: 3em;
+    margin-bottom: 70px; }
+
+footer {
+  border-top: 1px solid gray;
+  width: 100%;
+  margin-top: 413px;
+  width: 100%;
+  height: 200px; }
+
+h1 {
+  align-content: center;
+  vertical-align: center;
+  padding-left: 667px;
+  display: inline; }
+
+.activities {
+  width: 100%;
+  display: block; }
+  .activities ul {
+    padding: 0;
+    height: 157px;
+    display: inline-block;
+    vertical-align: top;
+    margin: 0 auto; }
+  .activities li {
+    float: left;
+    display: inline-block;
+    width: 24%; }
+  .activities img {
+    width: 100%;
+    height: 40px; }
+
+.navybar {
+  background-color: #0D2256;
+  color: white;
+  height: 6em;
+  clear: both; }
+  .navybar li {
+    font-size: .65em;
+    padding-right: .1em;
+    margin-right: 5em;
+    margin-top: 4em; }
